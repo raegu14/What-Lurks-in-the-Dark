@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 64b0d39d6832ad34db33bd9aeac9aec5
+timeCreated: 1491760082
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Talisman: {fileID: 1139050930130310, guid: a7d71674bfc5e2c4eb09e0e40d2eec1b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
